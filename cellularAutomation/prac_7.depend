@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1712889080 source:e:\cpp practical program\prac_7\cellularautomata.cpp
+	<iostream>
+	<time.h>
+	<cctype>
+	<cstdlib>
+	<sstream>
+	"CellularAutomata.h"
+
+1712701470 e:\cpp practical program\prac_7\cellularautomata.h
+
+1712889104 source:e:\cpp practical program\prac_7\main.cpp
+	<iostream>
+	<time.h>
+	<cctype>
+	<cstdlib>
+	"CellularAutomata.h"
+
